@@ -22,7 +22,7 @@ bucketPattern,drangar
 defaultBucket,drangar-lite
 apikey,SX2rinHSL63xJ-9LP1juF06FdogsfS0Lqu5MVKuDr0RI
 project,cpd
-currentCluster,dan-diy3
+currentCluster,dan-diy4
 restoreMetadataPullPVC,restore-metadata-pull-pvc
 fileStatefulsets,11-statefulsets.yaml
 bucketToDelete,cpd-test-bucket
