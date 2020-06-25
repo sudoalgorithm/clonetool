@@ -1,4 +1,4 @@
-urlPrefix,http://localhost:1880
+urlPrefix,http://127.0.0.1:1880
 cloneServiceAccount,my-service-account
 fileSecrets,1-secrets.yaml
 fileServiceAccounts,2-serviceaccounts.yaml
@@ -19,14 +19,14 @@ fileDeploymentsState,deployments_state
 fileStatefulsetsState,statefulsets_state
 fileSecurityContextConstraints,3-securitycontextconstraints.yaml
 bucketPattern,drangar
-defaultBucket,drangar-lite
+defaultBucket,drangar-datascience
 apikey,SX2rinHSL63xJ-9LP1juF06FdogsfS0Lqu5MVKuDr0RI
-project,cpd
+project,cp4d
 currentCluster,dan-diy4
 restoreMetadataPullPVC,restore-metadata-pull-pvc
 fileStatefulsets,11-statefulsets.yaml
-bucketToDelete,cpd-test-bucket
+bucketToDelete,drangar-datascience
 selProject,cpd
 baseDir,/Users/drangar@us.ibm.com/cp4d
-clonePVC,cos-pvc-lite
+clonePVC,cos-pvc-datascience
 
